@@ -3,3 +3,4 @@ nauka nauka
 zmienione readme
 jeszcze raz 
 skreślone
+bb
